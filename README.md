@@ -5,7 +5,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ecenisaugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecenisaugur" yükseklik="10" genişlik="10" /></a>
+<a href="https://linkedin.com/in/ecenisaugur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecenisaugur" yükseklik="30" genişlik="40" /></a>
 <a href="https://www.hackerrank.com/ecenisaugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ecenisaugu" yükseklik="30" genişlik="40" /></a>
 <a href="https://discord.gg/ece3851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ece3851" yükseklik="30" genişlik="40" /></a>
 </p>
