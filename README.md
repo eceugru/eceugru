@@ -52,27 +52,6 @@
 
 <br>
 
-<h3 align="center">📊 GitHub İstatistikleri</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eceugru&show_icons=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=C4B5FD&text_color=e0d4ff&ring_color=7F5AF0"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eceugru&layout=compact&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=e0d4ff&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eceugru&hide_border=true&background=0d1117&stroke=302b63&ring=A78BFA&fire=7F5AF0&currStreakLabel=e0d4ff&sideLabels=e0d4ff&currStreakNum=e0d4ff&sideNums=e0d4ff&dates=6b7280"/>
-</p>
-
-<br>
-
-<h3 align="center">📈 Aktivite Yörüngesi</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eceugru&bg_color=0d1117&color=A78BFA&line=7F5AF0&point=E0D4FF&area=true&area_color=302b63&hide_border=true&title_color=A78BFA"/>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
