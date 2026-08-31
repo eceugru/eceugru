@@ -47,7 +47,7 @@
 <h3 align="center">✨ Kullandığım Teknolojiler</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,postgresql,mysql,redis,kafka,rabbitmq,mongodb,git,react,redux,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,docker,kubernetes,postgresql,mysql,redis,kafka,rabbitmq,mongodb,git,react,redux,javascript,aws&theme=dark" />
 </p>
 
 <br>
