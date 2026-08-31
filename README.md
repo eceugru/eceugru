@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- UZAY / KUANTUM TEMA: Gradient kapsül başlık (koyu lacivert -> mor) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Ece%20Nisa%20U%C4%9Fur&fontSize=48&fontColor=e0d4ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Java%20Backend%20%26%20Quantum%20Enthusiast&descSize=17&descAlignY=52&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Ece%20Nisa%20U%C4%9Fur&fontSize=48&fontColor=e0d4ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Java%20Backend%20and%20Quantum%20Enthusiast&descSize=17&descAlignY=52"/>
 
 <!-- MOR/MAVİ DAKTİLO EFEKTİ -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Merhaba%2C+ben+Ece+%F0%9F%9A%80;Bilgisayar+M%C3%BChendisi;%C3%96l%C3%A7eklenebilir+Backend+Sistemleri+%C4%B0n%C5%9Fa+Ediyorum;Kuantum+Y%C3%B6r%C3%BCngesine+Giri%C5%9F+Yap%C4%B1yorum+%E2%9A%9B%EF%B8%8F;GitHub+Evrenime+Ho%C5%9F+Geldiniz+%F0%9F%8C%8C" />
