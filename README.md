@@ -77,7 +77,7 @@
 <br/>
 
 <div align="center">
-  <i>⚛️ GitHub evrenime uğradığınız için teşekkürler! Kuantum dolanıklığı içinde kalalım. 🌌</i>
+  <i>⚛️ GitHub evrenime uğradığınız için teşekkürler! 🌌</i>
 </div>
 
 <!-- FOOTER: Başlık ile uyumlu gradient dalga -->
