@@ -30,13 +30,13 @@
 
 🌌 Merhaba, ben **Ece Nisa Uğur**
 
-🎓 İnönü Üniversitesi Bilgisayar Mühendisliği'nden mezun oldum! Tutkulu bir Java Backend Geliştiricisiyim.
+🎓 Tutkulu bir Java Backend Geliştiricisiyim.
 
 ⚙️ Spring Boot, Docker, Apache Kafka ve mikroservis mimarileri üzerine uzmanlaşıyor; sağlam ve ölçeklenebilir sistemler inşa etmeyi seviyorum.
 
-⚛️ Kuantum hesaplama alanında yüksek lisans yapmayı ve gelecekte kuantum yazılım geliştiricisi olmayı hedefliyorum. Dinamik, verimli ve kullanıcı dostu sistemler kurarken clean code prensiplerine sadık kalıyorum.
+⚛️ Kuantum hesaplama alanında yüksek lisans yapmayı ve gelecekte kuantum yazılım geliştiricisi olmayı hedefliyorum.
 
-🎮 Hem backend servisleri hem de React ile frontend arayüzleri geliştirmekten keyif alıyorum. Kodlama seanslarının ardından Counter-Strike oynayarak kafa dağıtıyorum!
+🎮 Hem backend servisleri hem de React ile frontend arayüzleri geliştirmekten keyif alıyorum.
 
 </div>
 
@@ -61,6 +61,9 @@
 </a>
 <a href="https://github.com/eceugru">
   <img src="https://img.shields.io/badge/GitHub-302B63?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/ecenisaugu/">
+  <img src="https://img.shields.io/badge/LeetCode-7F5AF0?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </div>
